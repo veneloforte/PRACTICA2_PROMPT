@@ -1,6 +1,4 @@
-# Proyecto para otros datos
 
-Este proyecto está separado del trabajo actual para analizar datos distintos sin mezclar contextos.
 
 ## Estructura
 
